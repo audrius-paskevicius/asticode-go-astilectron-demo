@@ -9,9 +9,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/asticode/go-astichartjs"
-	"github.com/asticode/go-astilectron"
-	bootstrap "github.com/asticode/go-astilectron-bootstrap"
+	astichartjs "github.com/audrius-paskevicius/asticode-go-astichartjs"
+	astilectron "github.com/audrius-paskevicius/asticode-go-astilectron"
+	bootstrap "github.com/audrius-paskevicius/asticode-go-astilectron-bootstrap"
 )
 
 // handleMessages handles messages

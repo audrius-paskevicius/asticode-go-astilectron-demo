@@ -1,4 +1,4 @@
-This package is a demo of an [astilectron](https://github.com/asticode/go-astilectron) app that uses the [bootstrap](https://github.com/asticode/go-astilectron-bootstrap) and the [bundler](https://github.com/asticode/go-astilectron-bundler).
+This package is a demo of an [astilectron](https://github.com/audrius-paskevicius/asticode-go-astilectron) app that uses the [bootstrap](https://github.com/audrius-paskevicius/asticode-go-astilectron-bootstrap) and the [bundler](https://github.com/audrius-paskevicius/asticode-go-astilectron-bundler).
 
 It's also the subject of this [blog post](https://medium.com/@social_57971/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0).
 
@@ -12,15 +12,15 @@ This project is not maintained anymore.
 
 Run the following commands:
 
-    $ go get -u github.com/asticode/go-astilectron-demo/...
+    $ go get -u github.com/audrius-paskevicius/asticode-go-astilectron-demo/...
     $ rm {root_of_this_repo}/bind.go 
 
 # Step 2: install the bundler
 
 Run the following command:
 
-    $ go get -u github.com/asticode/go-astilectron-bundler/...
-    $ go install github.com/asticode/go-astilectron-bundler/astilectron-bundler
+    $ go get -u github.com/audrius-paskevicius/asticode-go-astilectron-bundler/...
+    $ go install github.com/audrius-paskevicius/asticode-go-astilectron-bundler/astilectron-bundler
 
 Go get and build the binary.
 And don't forget to add `$GOPATH/bin` to your `$PATH`.

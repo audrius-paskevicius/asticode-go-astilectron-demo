@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
-	bootstrap "github.com/asticode/go-astilectron-bootstrap"
+	astikit "github.com/audrius-paskevicius/asticode-go-astikit"
+	astilectron "github.com/audrius-paskevicius/asticode-go-astilectron"
+	bootstrap "github.com/audrius-paskevicius/asticode-go-astilectron-bootstrap"
 )
 
 // Constants
