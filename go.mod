@@ -11,6 +11,7 @@ require (
 
 require (
 	github.com/akavel/rsrc v0.10.2 // indirect
-	github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201145730-dc51cd227514 // indirect
+	github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251202101245-d25f8a55128d // indirect
+	github.com/audrius-paskevicius/asticode-go-bindata v0.0.0-20251201154002-46daa6c78bce // indirect
 	github.com/sam-kamerer/go-plister v1.2.0 // indirect
 )

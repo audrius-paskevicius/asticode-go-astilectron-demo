@@ -10,6 +10,10 @@ github.com/audrius-paskevicius/asticode-go-astilectron-bootstrap v0.0.0-20251201
 github.com/audrius-paskevicius/asticode-go-astilectron-bootstrap v0.0.0-20251201155326-49b172c33eba/go.mod h1:hz2rg9KqhUUMu8f1bPAYU87KPeTHE4SKUD4gJ4ZOfDg=
 github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201145730-dc51cd227514 h1:JXj0RWsrTB0dzx1Ci9b014cbjR1HVir+5Ci6NcG8T+I=
 github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201145730-dc51cd227514/go.mod h1:K9EoUNvjzNDCUYeW5f50E+zOF2dRFs3WfncJEqH4Bc0=
+github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251202101245-d25f8a55128d h1:mZmNVKLbu8xEusx4WCCTd0CF41jS9Fh6nzY8n4XiaD4=
+github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251202101245-d25f8a55128d/go.mod h1:xDZe6DxtGU6pjDxIVPzuH3qwccsuX7hcnvZfpVmZw7s=
+github.com/audrius-paskevicius/asticode-go-bindata v0.0.0-20251201154002-46daa6c78bce h1:gvhOt63BYiOm+HlSDSvEXep+NTU8p1TMbPhNnkvvzEk=
+github.com/audrius-paskevicius/asticode-go-bindata v0.0.0-20251201154002-46daa6c78bce/go.mod h1:rmsy5q2Js6g77Rip21sJX0C8I14vygV0wnUjSlgJoEM=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
